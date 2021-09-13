@@ -1,3 +1,7 @@
+Luke Sutton 
+Somthing Something Soething Dark Side
+https://www.youtube.com/watch?v=0oGMbAIcXCQ
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
